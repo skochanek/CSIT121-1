@@ -1,0 +1,14 @@
+body {background-color: #FFF8DC;
+color: #191970;
+font-family: "Courier New", "Times New Roman", sans-serif;}
+h1 {color: #00ff00;
+font-family: "Times New Roman", Geogria, sans-serif;
+text-transform: uppercase;}
+h2 {color: #009999;
+font-family: "Times New Roman", Geogria, sans-serif;
+text-align: center;}
+ul {text-transform: capitalize;
+font-weight: bold;}
+li {font-family: "Times New Roman",Geogria, sans-serif;}
+p {text-indent: 5em;
+color: #8b0000;}
